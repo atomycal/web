@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+# Atomycal Public Website
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Dev
 
-## Recommended IDE Setup
+```bash
+# To start:
+$ git clone git@github.com:atomycal/web.git
+$ cd web
+$ yarn
+$ yarn dev
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## To deploy
+$ yarn build
+$ yarn preview # check if everything is alright
+$ <git push to master repo>
+```
