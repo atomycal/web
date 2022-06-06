@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.3",
+    "sass": "^1.52.2",
     "vite": "^2.9.9",
     "vite-plugin-fonts": "^0.4.0",
     "vue": "^3.2.25"
